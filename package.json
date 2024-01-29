@@ -1,0 +1,19 @@
+{
+  "name": "mes_heures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AxelBattigelli/mes_heures.git"
+  },
+  "author": "Axel Battigelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxelBattigelli/mes_heures/issues"
+  },
+  "homepage": "https://github.com/AxelBattigelli/mes_heures#readme"
+}
